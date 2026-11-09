@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = regisaxel.ndinga@gmail.com
+	name = regis ndinga
